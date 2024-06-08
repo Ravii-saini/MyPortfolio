@@ -2,19 +2,9 @@
 
 Welcome to my frontend portfolio repository! This project showcases my skills, projects, and experiences as a developer/designer/[insert your profession here]. Whether you're a potential employer, colleague, or just curious visitor, I hope you find something interesting here.
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About Me
 
-I'm [Your Name], a passionate [Your Profession] based in [Your Location]. With a love for creativity and problem-solving, I specialize in frontend development and design. Feel free to explore my portfolio to learn more about my background, projects, and accomplishments.
+I'm Ravi Saini, a passionate Web Developer based in India. With a love for creativity and problem-solving, I specialize in frontend development and design. Feel free to explore my portfolio to learn more about my background, projects, and accomplishments.
 
 ## Features
 
@@ -26,9 +16,8 @@ I'm [Your Name], a passionate [Your Profession] based in [Your Location]. With a
 ## Technologies Used
 
 - HTML5
-- CSS3 (including Flexbox and Grid)
-- JavaScript (with ES6+ features)
-- [Any Frameworks/Libraries Used, e.g., React, Vue.js]
+- CSS3 
+- JavaScript
 - Version Control: Git, GitHub
 
 ## Installation
