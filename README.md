@@ -4,7 +4,7 @@ Welcome to my frontend portfolio repository! This project showcases my skills, p
 
 ## About Me
 
-I'm Ravi Saini, a passionate Web Developer based in India. With a love for creativity and problem-solving, I specialize in frontend development and design. Feel free to explore my portfolio to learn more about my background, projects, and accomplishments.
+I'm Ravi Saini, a passionate Web Developer based in India. With a love for creativity and problem-solving, I specialize in frontend development and design. Feel free to explore my portfolio to learn more about my background, projects, and accomplishments..
 
 ## Features
 
